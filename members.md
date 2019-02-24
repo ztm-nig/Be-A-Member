@@ -1,3 +1,5 @@
 # Members
 
--.[@AkonTeeJay(https://www.github/AkonTeeJay.com)
+-[@CFCIfe](https://www.github.com/CFCIfe)
+
+-[@AkonTeeJay](https://www.github.com/AkonTeeJay)
