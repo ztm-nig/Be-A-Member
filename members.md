@@ -1,3 +1,3 @@
 # Members
 
-- [@cfcife].(https://www.github/cfcife.com)
+- [@cfcife](https://www.github/cfcife.com)
