@@ -4,7 +4,7 @@ To add your name to the list, simply open `Members.md' and edit the repo (Copy a
 Format:
 
 ```moonscript
-  -.[@cfcife].(https://github.com/cfcife)
+  - [@cfcife](https://github.com/cfcife)
 ```
 
 Please submit a Pull Request for your row to be added to this list. If you are unsure how to do this, please check out *Contributing To Open Source* video in the course curriculum.
