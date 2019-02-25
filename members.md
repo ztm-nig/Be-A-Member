@@ -15,3 +15,4 @@
 
 -[@thisisyinka](https://www.github.com/thisisyinka)
 
+-[@wptechprodigy](https://www.github.com/wptechprodigy)
