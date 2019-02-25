@@ -6,7 +6,6 @@
 
 -[@G-oracle](https://www.github/G-oracle.com)
 
-
 -[@endyApina](https://www.github.com/endyApina)
 
 -[@Vicdaji](https://www.github.com/Vicdaji)
@@ -17,4 +16,4 @@
 
 -[@wptechprodigy](https://www.github.com/wptechprodigy)
 
--[@Emmanwell] (https://github.com/Emmanwell)
+-[@Emmanwell](https://github.com/Emmanwell)
