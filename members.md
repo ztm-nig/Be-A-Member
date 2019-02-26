@@ -4,7 +4,7 @@
 
 -[@AkonTeeJay](https://www.github.com/AkonTeeJay)
 
--[@G-oracle](https://www.github/G-oracle.com)
+-[@G-oracle](https://www.github.com/G-oracle)
 
 -[@endyApina](https://www.github.com/endyApina)
 
