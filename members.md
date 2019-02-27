@@ -25,3 +25,5 @@
 -[@w3bh4ck](https://gitHub.com/w3bh4ck)
 
 -[@rexjoseph](https://gitHub.com/rexjoseph)
+
+-[@alfred-st-asuzu](https://gitHub.com/justwebandsoftwaredevelopment)
