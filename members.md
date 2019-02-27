@@ -28,4 +28,4 @@
 
 -[@alfred-st-asuzu](https://gitHub.com/justwebandsoftwaredevelopment)
 
--[@heyameen] (https://gitHub.com/heyameen)
+-[@heyameen](https://gitHub.com/heyameen)
