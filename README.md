@@ -1,5 +1,5 @@
 ### How to add your name to the list
-To add your name to the list, simply open `Members.md' and edit the repo (Copy an example an replace with your details) directly or fork to your github and push the changes.
+To add your name to the list, simply open `Members.md' and edit the file (Copy an example and replace with your details) directly or fork to your github and push the changes.
 
 Format:
 
