@@ -52,8 +52,4 @@
 
 -[@koladem](https://www.github.com/koladem)
 
--[@Joebless](https://www.github.com/joebless
-
--[@Joebless](https://www.github.com/joeble)
-
--[@hdjerry](https://www.github.com/HD Jerry) 
+-[@Joebless](https://www.github.com/joebless)
