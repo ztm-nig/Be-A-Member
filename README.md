@@ -14,4 +14,4 @@ To add your name to the list, simply follow the follow the following steps:
   -[@your-username](https://github.com/your-username)
 ```
 
-Please submit a Pull Request for your row to be added to this list. If you are unsure how to do this, please check out *Contributing To Open Source* video in the course curriculum.
+Please submit a Pull Request for your row to be added to this list. If you are unsure how to do this, please check out [*Contributing To Open Source*](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/learn/v4/t/lecture/10744138?start=30) video in the course curriculum.
