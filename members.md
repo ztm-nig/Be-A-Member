@@ -70,3 +70,5 @@
 -[@abbshard](https://github.com/abbshard)
 
 -[@mandy8055](https://github.com/mandy8055)
+
+-[@edivri](https://github.com/edivri)
